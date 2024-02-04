@@ -1,0 +1,31 @@
+{
+  "table": {
+    "element-loading-text": "正在加载...",
+    "row-key": "id",
+    "show-header": true,
+    "border": true,
+    "indexMethod": null,
+    "expand": false
+  },
+  "column": {
+    "align": "center"
+  },
+  "operates": {
+    "align": "center",
+    "width": null,
+    "fixed": null,
+    "label": "操作",
+    "button": {
+      "type": "text"
+    }
+  },
+  "pagination": {
+    "page-size": 10,
+    "current-page": 1,
+    "layout": "total, sizes, prev, pager, next, jumper",
+    "page-sizes": [10, 20, 30, 40, 50, 100],
+    "background": true,
+    "pageField": "current-page",
+    "pageSizeField": "page-size"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@jypj/el-dynamic-table",
+  "version": "1.1.7",
+  "description": "二次封装elementUi,动态表格组件",
+  "main": "index.js",
+  "keywords": [
+    "动态表格",
+    "elementUi",
+    "el-dynamic-table",
+    "table"
+  ],
+  "author": "Pj",
+  "scripts": {
+    "m-publish": "npm publish --access public"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "license": "ISC"
+}
