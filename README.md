@@ -65,12 +65,9 @@ columns:[
   {
     label:'表头名',
     type:'index',
-    indexMethod:'同官方用法'
   }
 ]
 ```
-
-
 
 ##### 列配置
 

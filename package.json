@@ -1,6 +1,6 @@
 {
   "name": "@jypj/el-dynamic-table",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "二次封装elementUi,动态表格组件",
   "main": "index.js",
   "keywords": [
@@ -10,6 +10,7 @@
     "table"
   ],
   "author": "Pj",
+  "repository": "https://github.com/956632862/el-dynamic-table",
   "scripts": {
     "m-publish": "npm publish --access public"
   },
